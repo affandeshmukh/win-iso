@@ -1,5 +1,7 @@
 <html>
 <head>
+ <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1914156115794449" crossorigin="anonymous"></script>
+  
   <link rel="stylesheet" href="style.css">
 
 
