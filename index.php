@@ -49,8 +49,7 @@
 <h2>Download Windows 11 Iso</h2>
 <img src="src/win11.jpg"></br></br>
 
-<button class="button"><a href="">For 32 Bit</a></button>
-<button class="button"><a href="">For 64Bit</a></button>
+<button class="button"><a href="https://software-download.microsoft.com/sg/Windows11_InsiderPreview_Client_x64_en-gb_22000.iso?t=927eb864-b5a4-4260-ad25-5bac21089250&e=1631384358&h=2cfd4325cc9363953ec5a512f09c7e52">For 64Bit</a></button>
 
 
 <script src="js.js"></script>
