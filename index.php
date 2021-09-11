@@ -42,7 +42,8 @@
 <button class="button"><a href="https://software-download.microsoft.com/sg/Win10_21H1_English_x64.iso?t=bb91e29e-38cb-4772-aafc-55fe4a75ab72&e=1631344926&h=6818a380c5a066224f95cf55b134c6c0">For 64Bit</a></button>
 
 <h2>Create Windows 10 installation media</h2>
-<button class="button"><a href="">Download Now</a></button>
+<img src=src/media.jpg></br></br>
+<button class="button"><a href="src/MediaCreationTool21H1.exe">Download Now</a></button>
 
 
 <h2>Download Windows 11 Iso</h2>
