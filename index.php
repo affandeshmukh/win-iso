@@ -1,7 +1,6 @@
 <html>
 <head>
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1914156115794449" crossorigin="anonymous"></script>
-  
+<script data-ad-client="ca-pub-6849581117935786" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>  
   <link rel="stylesheet" href="style.css">
 
 
