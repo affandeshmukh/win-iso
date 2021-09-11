@@ -38,7 +38,7 @@
 </scetion>
 <h2>Download Windows 10 Iso</h2>
 <img src="src/win10.jpg"></br></br>
-<button class="button"><a href="https://software-download.microsoft.com/sg/Win10_21H1_English_x32.iso?t=bb91e29e-38cb-4772-aafc-55fe4a75ab72&e=1631344926&h=1A87oqEPacVwgWEtQ7CRYzbgE1ZBGuV5CT">For 32 Bit</a></button>
+<button class="button"><a href="https://software-download.microsoft.com/sg/Win10_21H1_English_x32.iso?t=05a60b37-f34b-4dab-bc39-9581d0ebacda&e=1631460498&h=3d560d9749fdba85b46fda489a55fc60">For 32 Bit</a></button>
 <button class="button"><a href="https://software-download.microsoft.com/sg/Win10_21H1_English_x64.iso?t=bb91e29e-38cb-4772-aafc-55fe4a75ab72&e=1631344926&h=6818a380c5a066224f95cf55b134c6c0">For 64Bit</a></button>
 
 <h2>Create Windows 10 installation media</h2>
