@@ -7,6 +7,7 @@ body{margin:2.5%;}
 
 body {
   font-family: Arial, Helvetica, sans-serif;
+  float: center;
 }
 
 .navbar {
@@ -89,4 +90,9 @@ body {
   background-color: #3e8e41;
   box-shadow: 0 5px #666;
   transform: translateY(4px);
+}
+
+
+.test{
+  float: left;
 }
