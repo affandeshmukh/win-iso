@@ -57,5 +57,3 @@
 </body>
 </html>
 
-<p>TO Google Adsense Team </p><p> this website not a blog this website make for any people who want to download any windows easily </p>
-<p>I request to you please monetize my website</p>
