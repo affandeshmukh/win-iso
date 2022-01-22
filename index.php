@@ -27,7 +27,7 @@
 <section>
 <section class="child">
     
-        <test class="test">
+<test class="test">
 
 
 <h2>Download Windows 7 Iso</h2>
@@ -60,7 +60,7 @@
 
 <section>
 <section class="child">
-        <test class="test">
+<test class="test">
 
 <h2>Create Windows 10 installation media</h2>
 <img src=src/media.jpg></br></br>
@@ -73,15 +73,36 @@
 <h2>Download Windows 11 Iso</h2>
 <img src="src/win11.jpg"></br></br>
 
-<button class="button"><a href="">For 32 Bit</a></button>
-<button class="button"><a href="">For 64Bit</a></button>
+<button class="button"><a href="How-to-download-windows-without-usb.html">For 32 Bit</a></button>
+<button class="button"><a href="https://software-download.microsoft.com/pr/Win11_EnglishInternational_x64v1.iso?t=73548ce2-5dd1-4573-9b93-f27710b0ac82&e=1642931820&h=b2bc98e68a93ac798c88d06829b9aacb">For 64Bit</a></button>
 </section>
+
+
+<section>
+<section class="child">   
+<test class="test">
+<h2>Create Windows 11 installation media</h2>
+<img src="src/w11.png"></br></br>
+<button class="button"><a href="src/MediaCreationToolW11.exe">Download Now</a></button>
+</test>
+
+</section>
+
+
+
+<section>
+<section class="child">
+
+<h2 >Windows 11 Installation Assistant
+</h2>
+<img src="src/w11.png"></br></br>
+<button class="button"><a href="src/Windows11InstallationAssistant.exe">Download Now</a></button>
+</scetion>
+
 
 </center>
 
 <script src="js.js"></script>
 </body>
 </html>
-
-
 
