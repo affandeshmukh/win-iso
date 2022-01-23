@@ -22,7 +22,7 @@
     </div>
   </div> 
 </div>
-
+</br>
 <center>
 <section>
 <section class="child">
@@ -93,8 +93,32 @@ Windows 7 Desktop
 <h2>Download Windows 7 Iso</h2>
 <img src="src/win7.jpg"></br></br>
 <button class="button"><a href="https://download.microsoft.com/download/C/0/6/C067D0CD-3785-4727-898E-60DC3120BB14/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x86FRE_en-us.iso">For 32 Bit</a></button>
-<button class="button"><a href="https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso">For 64Bit</a></button></test></br></br>Windows 10 S review: faster, simpler … and incredibly painful to use
-New Windows variant delivers on speed, security and simplicity – but its limited Windows Store apps and awful Edge browser just don’t cut it
+<button class="button"><a href="https://download.microsoft.com/download/0/6/3/06365375-C346-4D65-87C7-EE41F55F736B/7601.24214.180801-1700.win7sp1_ldr_escrow_CLIENT_PROFESSIONAL_x64FRE_en-us.iso">For 64Bit</a></button></test></br></br>
+</section>
+
+
+
+<section>
+<section class="child">
+  Windows 8 review: faster, simpler … and incredibly painful to use
+
+With Windows 8.1 releasing to the masses it's important to get a handle on the functions the different "versions" of Windows 8.1 are intended to serve and the differences in features.
+
+Windows 8.1 comes in three different versions: Basic Edition, Pro, and Enterprise.
+
+ Basic Edition – Windows 8.1 Basic Edition (or just Windows 8.1) is intended for home users. This version includes the core features, but none of the business features. Basic Edition is great for those general consumers (mother, grandmother, father, step-uncle, far removed cousin).
+ Pro – Windows 8.1 Pro is the operating system intended for small and medium-sized businesses. It provides abilities such as joining corporate domains, participating in Group Policy, allowing involvement in Work Place Join and Work Folders, encryption and more. You can find a good list of business features in the The IT Guide to Windows 8.1. Note that some of the new business features in Windows 8.1 Pro require a server running Windows Server 2012 R2 somewhere in the organization.
+ Enterprise – Windows 8.1 Enterprise is the version that brings business premium features to Windows. Available through Windows Software Assurance, Windows 8.1 Enterprise includes all of the same features of Windows 8.1 Pro and then adds things like Windows To Go, DirectAccess, BranchCache, AppLocker, Virtual Desktop Infrastructure (VDI), and Windows 8 app deployment.
+ 
+<h2 >Download Windows 8 Iso</h2>
+<img src="src/win8.jpg"></br></br>
+<button class="button"><a href="https://software-download.microsoft.com/sg/Win8.1_English_x32.iso?t=dcd05dc3-d5d8-4c99-a35f-1460716f7209&e=1631342809&h=394320e59694b66c5b0d488b9811b7d1">For 32 Bit</a></button>
+<button class="button"><a href="https://software-download.microsoft.com/sg/Win8.1_English_x64.iso?t=dcd05dc3-d5d8-4c99-a35f-1460716f7209&e=1631342809&h=024ac4545bfb5a23ed8d65f37a8f4be0">For 64Bit</a></button>
+</scetion>
+
+<section>
+<section class="child">
+    New Windows variant delivers on speed, security and simplicity – but its limited Windows Store apps and awful Edge browser just don’t cut it
 
 Windows 10 S looks like any other version of Windows 10, just without traditional desktop apps.
 Windows 10 S looks like any other version of Windows 10, just without traditional desktop apps. Photograph: Samuel Gibbs/The Guardian
@@ -177,29 +201,6 @@ And we provide all this for free, for everyone to read. We do this because we be
 
 
 If there were ever a time to join us, it is now. Every contribution, however big or small, powers our journalism and sustains our future. Support the Guardian from as little as $1 – it only takes a minute. If you can, please consider supporting us with a regular amount each month. Thank you.
-</section>
-
-
-
-<section>
-<section class="child">
-With Windows 8.1 releasing to the masses it's important to get a handle on the functions the different "versions" of Windows 8.1 are intended to serve and the differences in features.
-
-Windows 8.1 comes in three different versions: Basic Edition, Pro, and Enterprise.
-
- Basic Edition – Windows 8.1 Basic Edition (or just Windows 8.1) is intended for home users. This version includes the core features, but none of the business features. Basic Edition is great for those general consumers (mother, grandmother, father, step-uncle, far removed cousin).
- Pro – Windows 8.1 Pro is the operating system intended for small and medium-sized businesses. It provides abilities such as joining corporate domains, participating in Group Policy, allowing involvement in Work Place Join and Work Folders, encryption and more. You can find a good list of business features in the The IT Guide to Windows 8.1. Note that some of the new business features in Windows 8.1 Pro require a server running Windows Server 2012 R2 somewhere in the organization.
- Enterprise – Windows 8.1 Enterprise is the version that brings business premium features to Windows. Available through Windows Software Assurance, Windows 8.1 Enterprise includes all of the same features of Windows 8.1 Pro and then adds things like Windows To Go, DirectAccess, BranchCache, AppLocker, Virtual Desktop Infrastructure (VDI), and Windows 8 app deployment.
- 
-<h2 >Download Windows 8 Iso</h2>
-<img src="src/win8.jpg"></br></br>
-<button class="button"><a href="https://software-download.microsoft.com/sg/Win8.1_English_x32.iso?t=dcd05dc3-d5d8-4c99-a35f-1460716f7209&e=1631342809&h=394320e59694b66c5b0d488b9811b7d1">For 32 Bit</a></button>
-<button class="button"><a href="https://software-download.microsoft.com/sg/Win8.1_English_x64.iso?t=dcd05dc3-d5d8-4c99-a35f-1460716f7209&e=1631342809&h=024ac4545bfb5a23ed8d65f37a8f4be0">For 64Bit</a></button>
-</scetion>
-
-<section>
-<section class="child">
-    
 <h2>Download Windows 10 Iso</h2>
 <img src="src/win10.jpg"></br></br>
 <button class="button"><a href="https://software-download.microsoft.com/sg/Win10_21H1_English_x32.iso?t=bb91e29e-38cb-4772-aafc-55fe4a75ab72&e=1631344926&h=1A87oqEPacVwgWEtQ7CRYzbgE1ZBGuV5CT">For 32 Bit</a></button>
@@ -213,12 +214,20 @@ Windows 8.1 comes in three different versions: Basic Edition, Pro, and Enterpris
 
 <h2>Create Windows 10 installation media</h2>
 <img src=src/media.jpg></br></br>
-<button class="button"><a href="src/MediaCreationTool21H1.exe">Download Now</a></button>
+<button class="button"><a href="src/MediaCreationTool21H1.exe">Download Now</a></button></br></br>
 </section>
+</br>
 
 <section>
 <section class="child">
-    Windows 11 Is Faster than Windows 10 and Here’s Why
+   
+<h2>Download Windows 11 Iso</h2>
+<img src="src/win11.jpg"></br></br>
+
+<button class="button"><a href="How-to-download-windows-without-usb.html">For 32 Bit</a></button>
+<button class="button"><a href="https://software-download.microsoft.com/pr/Win11_EnglishInternational_x64v1.iso?t=73548ce2-5dd1-4573-9b93-f27710b0ac82&e=1642931820&h=b2bc98e68a93ac798c88d06829b9aacb">For 64Bit</a></button>
+</section>
+ Windows 11 Is Faster than Windows 10 and Here’s Why
 Posted on October 7, 2021 by Madalina Dinita 8 Comments
 
 Many Windows 10 users are wondering if Windows 11 is indeed faster than its predecessor. That’s one key element that would convince many people to upgrade to the new OS version. Keep reading to find out more.
@@ -262,13 +271,6 @@ Conclusion
 Windows 11 definitely feels faster and smoother compared to Windows 10. Much of this comes from the improved memory management system that Windows 11 is using. If you own an average computer in terms of specs, you’ll definitely notice the difference. The same is valid for old low-specs machines. Windows 11 feels a lot snappier, even on HDD machines. Overall, it runs better than its predecessor on many computers.
 
 Have you upgraded to Windows 11? What do you think about the new OS? Share your thoughts in the comments below.
-<h2>Download Windows 11 Iso</h2>
-<img src="src/win11.jpg"></br></br>
-
-<button class="button"><a href="How-to-download-windows-without-usb.html">For 32 Bit</a></button>
-<button class="button"><a href="https://software-download.microsoft.com/pr/Win11_EnglishInternational_x64v1.iso?t=73548ce2-5dd1-4573-9b93-f27710b0ac82&e=1642931820&h=b2bc98e68a93ac798c88d06829b9aacb">For 64Bit</a></button>
-</section>
-
 
 <section>
 <section class="child">   
