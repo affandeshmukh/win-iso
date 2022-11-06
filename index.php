@@ -8,6 +8,11 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  
+  <script async src="https://cse.google.com/cse.js?cx=65d2f798c2e6e4a6f">
+</script>
+<div class="gcse-search"></div>
+  
 <div class="navbar">
   <a href="https://windows-iso.herokuapp.com/">Home</a>
   <a href="How-to-download-windows-without-usb.html">How to download windows without usb</a>
