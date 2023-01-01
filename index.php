@@ -2,17 +2,12 @@
 <html>
 <head>
   <title>Download Any Windows For Free </title>
-<script data-ad-client="ca-pub-6849581117935786" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6849581117935786" crossorigin="anonymous"></script>
-  
+
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   
-  <script async src="https://cse.google.com/cse.js?cx=65d2f798c2e6e4a6f">
-</script>
-<div class="gcse-search"></div>
-  
+
 <div class="navbar">
   <a href="https://windows-iso.herokuapp.com/">Home</a>
   <a href="How-to-download-windows-without-usb.html">How to download windows without usb</a>
